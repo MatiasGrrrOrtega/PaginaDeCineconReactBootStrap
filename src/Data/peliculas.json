@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "nombre":"GodzillaVskingKong",
+        "imagen": "/src/assets/images/img-peliculas/cartelera-godzilla-vs-kingkong.jpg",
+        "actores": "Alexander Skarsgård, Rebecca Hall, Demian Bichir, Millie Bobby Brown, Eiza González, Shun Oguri, Kyle Chandler, Kaylee Hottle, Julian Dennison, Van Marten, Jessica Henwick, Lance Reddick, Brian Tyree Henry, Ronny Chieng, Hakeem Kae-Kazim, John Pirruccello, Chris Chalk",
+        "duracion": "113 min",
+        "sinopsis": "En un momento en que los monstruos caminan por la Tierra, la lucha de la humanidad por su futuro pone a Godzilla y Kong en un curso de colisión que verá las dos fuerzas más poderosas de la naturaleza en el planeta chocan en una batalla espectacular para los siglos."
+    },
+    {
+        "id": 1,
+        "nombre":"John Wick 3: Parabellum",
+        "imagen": "/src/assets/images/img-peliculas/cartelera-john-wick-3.jpg",
+        "actores": "Keanu Reeves,Halle Berry,Laurence Fishburne",
+        "duracion": "130 min",
+        "sinopsis": "El mercenario de élite John Wick debe enfrentarse a todos los asesinos que se interpongan en su camino para retomar viejas alianzas y redimirse."
+    },
+    {
+        "id": 2,
+        "nombre":"Joker",
+        "imagen": "/src/assets/images/img-peliculas/cartelera-joker.jpg",
+        "actores": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Bill Camp, Shea Whigham, Dante Pereira-Olson, Douglas Hodge, Jolie Chan",
+        "duracion": "121 min",
+        "sinopsis": "Arthur Fleck vive en Gotham con su madre, y su única motivación en la vida es hacer reír a la gente. Actúa haciendo de payaso en pequeños trabajos, pero tiene problemas mentales que hacen que la gente le vea como un bicho raro. Su gran sueño es actuar como cómico delante del público, pero una serie de trágicos acontecimientos le hará ir incrementando su ira contra una sociedad que le ignora."
+    },
+    {
+        "id": 3,
+        "nombre":"Vengadores: Endgame",
+        "imagen": "/src/assets/images/img-peliculas/cartelera-vengadores-endgame.jpg",
+        "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan.",
+        "duracion": "181 min",
+        "sinopsis": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias... Cuarta y última entrega de la saga Vengadores."
+    },
+    {
+        "id": 4,
+        "nombre":"Toy Story 4",
+        "imagen": "/src/assets/images/img-peliculas/cartelera-toy-story-4.jpg",
+        "actores": "Animación",
+        "duracion": "100 min",
+        "sinopsis": "Woody siempre ha tenido claro cuál es su labor en el mundo y su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Pero cuando Bonnie añade a Forky, un nuevo juguete de fabricación propia, a su habitación, arranca una nueva aventura que servirá para que los viejos y nuevos amigos le enseñen a Woody lo grande que puede ser el mundo para un juguete."
+    }
+]
