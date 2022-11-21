@@ -1,0 +1,26 @@
+footer p{
+    text-align: center;
+    margin: 0;
+}
+
+.red-social{
+    width: 40px;
+    height: 40px;
+}
+
+.container-red-social{
+    margin: 13px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.form{
+    text-align: center;
+    padding: 12px;
+    background-color: #280041;
+    border-radius: 25px;
+}
+
+.btn{
+    margin-top: 12px;
+}

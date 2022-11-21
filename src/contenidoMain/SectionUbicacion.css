@@ -1,0 +1,9 @@
+.cine iframe{
+    width: 100%;
+}
+
+@media (min-width: 768px){
+    .cine iframe{
+        width: 500px;
+    }
+}
